@@ -1,8 +1,8 @@
 {
   "update": "Yes",
-  "new_version": "1.1",
+  "new_version": "1.2",
   "version_code":2, 
-  "apk_file_url": "http://www.qiquvideo.com/app/qiquvideo_1.2.apk",
+  "apk_file_url": "https://yemaodh.com/app/影视盒子_1.2.apk",
   "update_log": "1.测试。\r\n2.添加vip认证。\r\n3.区分自定义消费，一个小时不限制。\r\n4.添加放弃任务接口，小时内不生成。\r\n5.消费任务手动生成。",
   "target_size": "3.2M",
   "constraint":false
