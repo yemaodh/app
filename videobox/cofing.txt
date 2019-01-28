@@ -1,0 +1,51 @@
+<shareurl>https://www.lanzous.com/b575084</shareurl>   ///分享地址&更新地址
+
+
+<userapi>http://user.cloudplayer.top</userapi>  ///用户_接口
+
+
+<qidongimg>http://www.yemaoav.com/img/qidong.png</qidongimg> ///启动页图片
+
+
+<qiquurl></qiquurl> ///你的网站
+
+
+<notice_state>开启</notice_state>///公告状态（开启/关闭）
+
+
+<notice>欢迎老司机光临</notice> ///公告内容
+
+
+<notice_btn>http://yemaodh.com</notice_btn>///公告确定按钮链接
+
+
+<share>给你推荐个视频软件，免费观看全网最新电影、电视剧！你也赶紧试试吧！下载地址：http://www.qiquvideo.com/app</share>  ///分享内容
+
+
+<email>yemaodh@gmail.com</email>  ///邮箱
+
+
+<qq></qq>  ///客服QQ
+
+
+
+
+///api接口(目前只能添加5个)
+
+<api>
+<api_title>800资源</api_title>
+<api_url>http://cj.809zy.com/inc/zyapimac.php</api_url>
+
+<api_title>小黄瓜资源</api_title>
+<api_url>http://cj.xhgcjym.com/inc/httpapi.php</api_url>
+
+<api_title>1024资源</api_title>
+<api_url>https://1024zyw.com/inc/api.php</api_url>
+
+<api_title>富二代资源</api_title>
+<api_url>http://f2dcj9.com/Api</api_url>
+
+<api_title>JAV名女优馆</api_title>
+<api_url>http://nygcj.com/api.php</api_url>
+</api>
+///广告
