@@ -32,10 +32,11 @@
 
 ///api接口(目前只能添加5个)
 
+<api>
+
 <api_title>富二代资源</api_title>
 <api_url>http://f2dcj9.com/Api</api_url>
 
-<api>
 <api_title>800资源</api_title>
 <api_url>http://cj.809zy.com/inc/zyapimac.php</api_url>
 
