@@ -1,7 +1,7 @@
 <shareurl>https://www.lanzous.com/b575084</shareurl>   ///分享地址&更新地址
 
 
-<userapi>http://user.cloudplayer.top</userapi>  ///用户_接口
+<userapi></userapi>  ///用户_接口
 
 
 <qidongimg>http://www.yemaoav.com/img/qidong.png</qidongimg> ///启动页图片
@@ -13,7 +13,7 @@
 <notice_state>开启</notice_state>///公告状态（开启/关闭）
 
 
-<notice>欢迎老司机光临</notice> ///公告内容
+<notice>★★影视盒子官方防迷路导航：yemaodh.com,请大家牢记回家的路★★</notice> ///公告内容
 
 
 <notice_btn>http://yemaodh.com</notice_btn>///公告确定按钮链接
