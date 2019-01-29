@@ -32,6 +32,9 @@
 
 ///api接口(目前只能添加5个)
 
+<api_title>富二代资源</api_title>
+<api_url>http://f2dcj9.com/Api</api_url>
+
 <api>
 <api_title>800资源</api_title>
 <api_url>http://cj.809zy.com/inc/zyapimac.php</api_url>
@@ -41,9 +44,6 @@
 
 <api_title>1024资源</api_title>
 <api_url>https://1024zyw.com/inc/api.php</api_url>
-
-<api_title>富二代资源</api_title>
-<api_url>http://f2dcj9.com/Api</api_url>
 
 <api_title>JAV名女优馆</api_title>
 <api_url>http://nygcj.com/api.php</api_url>
