@@ -34,6 +34,9 @@
 
 <api>
 
+<api_title>九州资源</api_title>
+<api_url>http://zyapi.jssida.top/api.php</api_url>
+
 <api_title>富二代资源</api_title>
 <api_url>http://f2dcj9.com/Api</api_url>
 
