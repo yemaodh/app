@@ -46,6 +46,9 @@
 <api_title>小黄瓜资源</api_title>
 <api_url>http://cj.xhgcjym.com/inc/httpapi.php</api_url>
 
+<api_title>利来资源</api_title>
+<api_url>http://llzxcj.com/inc/ck.php</api_url>
+
 <api_title>1024资源</api_title>
 <api_url>https://1024zyw.com/inc/api.php</api_url>
 
