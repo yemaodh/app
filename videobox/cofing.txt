@@ -13,7 +13,7 @@
 <notice_state>开启</notice_state>///公告状态（开启/关闭）
 
 
-<notice>★★点击片源可切换播放源★★\r★★影视盒子官方防迷路导航：yemaodh.com,请大家牢记回家的路★★</notice> ///公告内容
+<notice>★★点击片源可切换播放源，7大资源站任性看★★</notice> ///公告内容
 
 
 <notice_btn>http://yemaodh.com</notice_btn>///公告确定按钮链接
