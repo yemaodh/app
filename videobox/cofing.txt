@@ -13,7 +13,7 @@
 <notice_state>开启</notice_state>///公告状态（开启/关闭）
 
 
-<notice>★★新版本尝鲜体验！新增3个播放源，修复已知BUG,修复分类错误问题加快软件启动速度，下载地址yemaodh.com/app。或者点开确定按钮下载★★</notice> ///公告内容
+<notice>★★新版本尝鲜体验！新增3个播放源，修复已知BUG,修复分类错误问题加快软件启动速度，下载地址yemaodh.com/app。或者点开下方打开按钮下载★★</notice> ///公告内容
 
 
 <notice_btn>http://yemaodh.com/app</notice_btn>///公告确定按钮链接
