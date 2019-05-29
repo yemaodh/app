@@ -1,7 +1,7 @@
 {
   "update": "Yes",
-  "new_version": "1.4",
-  "version_code":4, 
+  "new_version": "1.7",
+  "version_code":7, 
   "apk_file_url": "https://yemaodh.com/app/影视盒子_1.4.apk",
   "update_log": "1.修复已知BUG。\r\n2.新增三个播放源。\r\n3.优化软件启动速度。\r\n4.修复切换分类影片乱序问题。\r\n⭐下载失败的请进入yemaodh.com下载⭐",
   "target_size": "6.79M",
