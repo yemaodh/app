@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "1.8",
+  "version_code":8, 
+  "apk_file_url": "https://yemaodh.com/app/影视盒子_1.8.apk",
+  "update_log": "1.修复不能观看问题。\r\n注意：下载失败请访问yemaodh.com下载",
+  "target_size": "7.97M",
+  "constraint":false
+}
